@@ -22,9 +22,9 @@ Install MATLAB toolboxes before install **BrainWaves**.
 ## Install _BrainWaves_
 
 For Windows users,
-- Go to release page and check latest version.
-- Download 'BrainWaves.exe' into your computer.
-- Run 'BrainWaves.exe'.
+- Go to release page and check the latest version.
+- Download 'Install_BrainWaves.exe' into your computer.
+- Run 'Install_BrainWaves.exe'.
 
 # Documentation
 

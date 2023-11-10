@@ -1,4 +1,6 @@
-
+![GitHub release (with filter)](https://img.shields.io/github/v/release/minsmis/BrainWaves)
+![Static Badge](https://img.shields.io/badge/MATLAB-R2023b-blue)
+![GitHub](https://img.shields.io/github/license/minsmis/BrainWaves)
 
 # Welcome to BrainWaves! 👋
 
@@ -7,22 +9,22 @@
 
 # Installation Guide
 
-## Check before installation
+### Check before installation
 
 - This application needs MATLAB runtime package. Please match your MATLAB runtime version and requirements.
 - This application may need MATLAB Licenses. Please activate your MATLAB version.
 
-## MATLAB Toolbox Dependencies
+### MATLAB Toolbox Dependencies
 
 Install MATLAB toolboxes before install **BrainWaves**.
 
 - Signal Processing Toolbox
 - Wavelet Toolbox
 
-## Install _BrainWaves_
+### Install _BrainWaves_
 
 For Windows users,
-- Go to release page and check the latest version.
+- Go to [release page](https://github.com/minsmis/BrainWaves/releases) and check the latest version.
 - Download 'Install_BrainWaves.exe' into your computer.
 - Run 'Install_BrainWaves.exe'.
 

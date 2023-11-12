@@ -1,5 +1,6 @@
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/minsmis/BrainWaves)
 ![Static Badge](https://img.shields.io/badge/MATLAB-R2023b-blue)
+![Static Badge](https://img.shields.io/badge/OS-Windows-purple)
 ![GitHub](https://img.shields.io/github/license/minsmis/BrainWaves)
 
 # Welcome to BrainWaves! 👋
